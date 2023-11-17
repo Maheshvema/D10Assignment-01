@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-10 assignment-1\ConAppBinaryandbubbleassignment\ConAppBinaryandbubbleassignment\bin\Debug\ConAppBinaryandbubbleassignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-10 assignment-1\ConAppBinaryandbubbleassignment\ConAppBinaryandbubbleassignment\bin\Debug\ConAppBinaryandbubbleassignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-10 assignment-1\ConAppBinaryandbubbleassignment\ConAppBinaryandbubbleassignment\bin\Debug\ConAppBinaryandbubbleassignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-10 assignment-1\ConAppBinaryandbubbleassignment\ConAppBinaryandbubbleassignment\obj\Debug\ConAppBinaryandbubbleassignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-10 assignment-1\ConAppBinaryandbubbleassignment\ConAppBinaryandbubbleassignment\obj\Debug\ConAppBinaryandbubbleassignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-10 assignment-1\ConAppBinaryandbubbleassignment\ConAppBinaryandbubbleassignment\obj\Debug\ConAppBinaryandbubbleassignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-10 assignment-1\ConAppBinaryandbubbleassignment\ConAppBinaryandbubbleassignment\obj\Debug\ConAppBinaryandbubbleassignment.pdb
